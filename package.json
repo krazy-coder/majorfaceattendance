@@ -7,7 +7,7 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "base-64": "^0.1.0",
     "base64-arraybuffer": "^0.2.0",
     "expo": "^35.0.0",
